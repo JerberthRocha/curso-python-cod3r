@@ -1,0 +1,2 @@
+valores.reverse()
+# print(valores)

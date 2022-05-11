@@ -1,0 +1,5 @@
+Nome: Jose, Idade: 72
+Nome: Maria, Idade: 65
+Nome: Renato, Idade: 36
+Nome: Jeferson, Idade: 33
+Nome: Roberth, Idade: 31
